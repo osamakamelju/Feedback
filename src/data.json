@@ -1,0 +1,302 @@
+{
+  "currentUser": {
+    "image": "user-images/image-zena.jpg",
+    "name": "Zena Kelley",
+    "username": "velvetround"
+  },
+  "productRequests": [
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "category": "Fritidshus",
+      "upvotes": 112,
+      "status": "suggestion",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "comments": [
+        {
+          "id": 1,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+          "user": {
+            "image": "user-images/image-suzanne.jpg",
+            "name": "Suzanne Chang",
+            "username": "upbeat1811"
+          }
+        },
+        {
+          "id": 2,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit....",
+          "user": {
+            "image": "user-images/image-thomas.jpg",
+            "name": "Thomas Hood",
+            "username": "brawnybrave"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..",
+      "category": "Attefallshus",
+      "upvotes": 99,
+      "status": "suggestion",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..",
+      "comments": [
+        {
+          "id": 3,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "user": {
+            "image": "user-images/image-elijah.jpg",
+            "name": "Elijah Moss",
+            "username": "hexagon.bestagon"
+          }
+        },
+        {
+          "id": 4,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-james.jpg",
+            "name": "James Skinner",
+            "username": "hummingbird1"
+          },
+          "replies": [
+            {
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "replyingTo": "hummingbird1",
+              "user": {
+                "image": "user-images/image-anne.jpg",
+                "name": "Anne Valentine",
+                "username": "annev1990"
+              }
+            },
+            {
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "replyingTo": "annev1990",
+              "user": {
+                "image": "user-images/image-ryan.jpg",
+                "name": "Ryan Welles",
+                "username": "voyager.344"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Attefallshus",
+      "upvotes": 65,
+      "status": "suggestion",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "comments": [
+        {
+          "id": 5,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "user": {
+            "image": "user-images/image-george.jpg",
+            "name": "George Partridge",
+            "username": "soccerviewer8"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..",
+      "category": "Fritidshus",
+      "upvotes": 51,
+      "status": "suggestion",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "comments": [
+        {
+          "id": 6,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-javier.jpg",
+            "name": "Javier Pollard",
+            "username": "warlikeduke"
+          }
+        },
+        {
+          "id": 7,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "user": {
+            "image": "user-images/image-roxanne.jpg",
+            "name": "Roxanne Travis",
+            "username": "peppersprime32"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Attefallshus",
+      "upvotes": 42,
+      "status": "suggestion",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "comments": [
+        {
+          "id": 8,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-victoria.jpg",
+            "name": "Victoria Mejia",
+            "username": "arlen_the_marlin"
+          },
+          "replies": [
+            {
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "replyingTo": "arlen_the_marlin",
+              "user": {
+                "image": "user-images/image-zena.jpg",
+                "name": "Zena Kelley",
+                "username": "velvetround"
+              }
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-jackson.jpg",
+            "name": "Jackson Barker",
+            "username": "countryspirit"
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Friggebod",
+      "upvotes": 3,
+      "status": "suggestion",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 7,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Attefallshus",
+      "upvotes": 123,
+      "status": "planned",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "comments": [
+        {
+          "id": 10,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-victoria.jpg",
+            "name": "Victoria Mejia",
+            "username": "arlen_the_marlin"
+          }
+        },
+        {
+          "id": 11,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-jackson.jpg",
+            "name": "Jackson Barker",
+            "username": "countryspirit"
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Attefallshus",
+      "upvotes": 28,
+      "status": "planned",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "comments": [
+        {
+          "id": 12,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-george.jpg",
+            "name": "George Partridge",
+            "username": "soccerviewer8"
+          }
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Attefallshus",
+      "upvotes": 62,
+      "status": "in-progress",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "comments": [
+        {
+          "id": 13,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-ryan.jpg",
+            "name": "Ryan Welles",
+            "username": "voyager.344"
+          }
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Attefallshus",
+      "upvotes": 31,
+      "status": "in-progress",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "comments": [
+        {
+          "id": 14,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "user": {
+            "image": "user-images/image-suzanne.jpg",
+            "name": "Suzanne Chang",
+            "username": "upbeat1811"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Friggebod",
+      "upvotes": 9,
+      "status": "in-progress",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 12,
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      "category": "Fritidshus",
+      "upvotes": 71,
+      "status": "live",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "comments": [
+        {
+          "id": 15,
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "user": {
+            "image": "user-images/image-victoria.jpg",
+            "name": "Victoria Mejia",
+            "username": "arlen_the_marlin"
+          },
+          "replies": [
+            {
+              "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+              "replyingTo": "arlen_the_marlin",
+              "user": {
+                "image": "user-images/image-suzanne.jpg",
+                "name": "Suzanne Chang",
+                "username": "upbeat1811"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
